@@ -1,2 +1,3 @@
 # technigo-application
-This is my solution for the Technigo Coding Challenge 
+My solution for the Technigo Coding Challenge.
+Learning exercise, a minimal one-page website briefly explaining the term "cookies".
